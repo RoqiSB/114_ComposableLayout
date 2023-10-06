@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activity2kotlin</string>
+    <string name="greeting">Selamat Pagi</string>
+    <string name="name">dari Bule</string>
+</resources>
